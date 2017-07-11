@@ -1,0 +1,18 @@
+
+<html>
+<head>
+<title>Tori</title>
+<h1><center><u>Torianna Broaddus</u></center><h1>
+</head>
+<body>
+<p> My name is Torianna. My favorite color is purple. I am a capricorn. I love to travel.I like to read.</p>
+<p> My hobbies are reading, listening to music, and watching documentaries. I love learning history. My favorite singer is <b> Mariah Carey and I also love Drake and , Kendrick Lamar.</b> When I'm 
+
+alone I like to think about things and clear my mind. <font color="blue">I enjoy jazz when it's raining outside.</font> I dont like the heat so summer isnt my favorite time of year. I love the 
+
+winter time. Rain is my favorite percipitation. I like going to school. I find learning something new to be interesting. I'm a shy person when I first meet new people but when I get adjusted I 
+
+become a little talkative. When I get older I want to become an attorney.</p>
+<img src="Mcbutterfly.jpg"></img>
+</body>
+</html>
